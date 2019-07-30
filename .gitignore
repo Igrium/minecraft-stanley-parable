@@ -1,0 +1,5 @@
+# Minecraft game files
+game/*
+!game/saves/
+game/saves/*
+!game/saves/world
