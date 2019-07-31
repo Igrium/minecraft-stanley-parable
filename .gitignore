@@ -1,5 +1,10 @@
 # Minecraft game files
 game/*
+
 !game/saves/
 game/saves/*
 !game/saves/world
+
+!game/resourcepacks
+game/resourcepacks/*
+!game/resourcepacks/resources
