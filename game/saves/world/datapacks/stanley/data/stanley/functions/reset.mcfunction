@@ -8,3 +8,6 @@ setblock -25 30 1 minecraft:air replace
 
 # Two doors room door
 setblock -53 31 -26 minecraft:redstone_block replace
+
+# Left door
+setblock -61 31 -24 minecraft:redstone_block replace

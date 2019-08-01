@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "block/colored_wall", "uvlock":true },
+        "facing=south": { "model": "block/colored_wall", "y": 180, "uvlock":true },
+        "facing=west":  { "model": "block/colored_wall", "y": 270, "uvlock":true },
+        "facing=east":  { "model": "block/colored_wall", "y": 90, "uvlock":true }
+    }
+}

@@ -18,5 +18,15 @@
         "sounds":[
             "narrator/two_doors_00"
         ]
+    },
+	"narrator.meeting_room_00":{
+        "sounds":[
+            "narrator/meeting_room_00"
+        ]
+    },
+	"narrator.meeting_room_01":{
+        "sounds":[
+            "narrator/meeting_room_01"
+        ]
     }
 }

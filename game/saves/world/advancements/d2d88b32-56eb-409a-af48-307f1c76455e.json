@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-08-01 11:50:32 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2019-08-01 10:21:09 -0700"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-01 11:50:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2019-07-30 17:37:35 -0700"
@@ -272,6 +284,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-07-30 17:12:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-08-01 11:50:09 -0700"
     },
     "done": true
   },
