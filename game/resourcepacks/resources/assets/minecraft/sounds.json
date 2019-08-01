@@ -1,0 +1,22 @@
+{
+    "narrator.office_1_00":{
+        "sounds":[
+            "narrator/office_1_00"
+        ]
+    },
+	"narrator.office_1_01":{
+        "sounds":[
+            "narrator/office_1_01"
+        ]
+    },
+	"narrator.office_1_02":{
+        "sounds":[
+            "narrator/office_2_00"
+        ]
+    },
+	"narrator.two_doors_00":{
+        "sounds":[
+            "narrator/two_doors_00"
+        ]
+    }
+}
