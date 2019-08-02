@@ -28,5 +28,10 @@
         "sounds":[
             "narrator/meeting_room_01"
         ]
+    },
+    "narrator.staircase_00":{
+        "sounds":[
+            "narrator/staircase_00"
+        ]
     }
 }
