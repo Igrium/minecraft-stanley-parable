@@ -1,8 +1,10 @@
 diorite stairs & polished diorite stairs: curved desk
 light blue concrete: teal wall
-carver pumpkin: tan and teal wall
+carved pumpkin: tan and teal wall
 purpur stairs: meeting table end
 red nether brick stairs: meeting table middle
 magenta glazed terracotta: filling cabinet
 white concrete: white bricks
 light blue terracotta: blue/gray bricks
+light blue glazed terracotta: gray bricks & tan wall
+white terracotta: white bricks & tan wall
