@@ -11,3 +11,6 @@ setblock -53 31 -26 minecraft:redstone_block replace
 
 # Left door
 setblock -61 31 -24 minecraft:redstone_block replace
+
+# Meeting room door
+setblock -75 31 -11 minecraft:redstone_block

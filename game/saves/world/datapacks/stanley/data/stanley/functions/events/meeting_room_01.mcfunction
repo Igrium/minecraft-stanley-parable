@@ -1,0 +1,1 @@
+playsound minecraft:narrator.meeting_room_01 voice @a ~ 200 ~ 100000 1 1
