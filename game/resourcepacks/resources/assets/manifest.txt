@@ -1,3 +1,5 @@
 diorite stairs & polished diorite stairs: curved desk
 light blue concrete: teal wall
 carver pumpkin: tan and teal wall
+purpur stairs: meeting table end
+red nether brick stairs: meeting table middle
