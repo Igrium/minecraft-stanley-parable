@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/meeting_desk",
+		"particle": "block/meeting_desk"
+	},
+	"elements": [
+		{
+			"name": "TableTop",
+			"from": [0, 15, 0],
+			"to": [32, 17, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"east": {"uv": [7, 0, 8, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 8], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Leg1",
+			"from": [28, 0, 9],
+			"to": [30, 16, 23],
+			"faces": {
+				"north": {"uv": [8, 0, 9, 8], "texture": "#0"},
+				"east": {"uv": [9, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [15, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [9, 0, 16, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 14], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 14], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Leg2",
+			"from": [2, 0, 9],
+			"to": [4, 16, 23],
+			"faces": {
+				"north": {"uv": [8, 0, 9, 8], "texture": "#0"},
+				"east": {"uv": [9, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [15, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [9, 0, 16, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 14], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 14], "texture": "#missing"}
+			}
+		}
+	]
+}
