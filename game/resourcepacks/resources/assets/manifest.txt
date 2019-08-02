@@ -4,3 +4,5 @@ carver pumpkin: tan and teal wall
 purpur stairs: meeting table end
 red nether brick stairs: meeting table middle
 magenta glazed terracotta: filling cabinet
+white concrete: white bricks
+light blue terracotta: blue/gray bricks
