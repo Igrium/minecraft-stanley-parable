@@ -7,4 +7,6 @@ magenta glazed terracotta: filling cabinet
 white concrete: white bricks
 light blue terracotta: blue/gray bricks
 light blue glazed terracotta: gray bricks & tan wall
-white terracotta: white bricks & tan wall
+white glazed terracotta: white bricks & tan wall
+red glazed terracotta: white bricks & red wool
+brown glazed terracotta: white bricks & dark oak planks
