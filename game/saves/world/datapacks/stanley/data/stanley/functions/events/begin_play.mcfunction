@@ -7,4 +7,6 @@ effect clear @a
 effect give @a minecraft:slowness 100000 0 true
 effect give @a minecraft:jump_boost 100000 200 true
 
+scoreboard players set @a inventory.item 0
+
 scoreboard players set @a e.game_started 1

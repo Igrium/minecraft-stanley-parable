@@ -7,3 +7,6 @@ scoreboard players set @a e.meeting_room 0
 scoreboard players set @a e.post_meeting 0
 scoreboard players set @a e.staircase 0
 scoreboard players set @a e.boss_lobby 0
+scoreboard players set @a e.keypad 0
+
+scoreboard players set @a keypad.correct 0

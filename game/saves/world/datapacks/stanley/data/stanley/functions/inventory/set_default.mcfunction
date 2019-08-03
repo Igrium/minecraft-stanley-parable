@@ -1,0 +1,9 @@
+replaceitem entity @s container.0 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.1 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.2 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.3 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.4 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.5 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.6 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.7 minecraft:dead_tube_coral_fan
+replaceitem entity @s container.8 minecraft:dead_tube_coral_fan
