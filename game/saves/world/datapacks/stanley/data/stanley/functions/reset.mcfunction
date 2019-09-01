@@ -35,3 +35,6 @@ summon slime -71 38 4 {CustomName:"\"BossHitboxBlocker3\"",NoGravity:1b,Size:3,I
 
 # Boss keypad
 setblock -53 39 18 minecraft:vine[east=true]
+
+# Boss window
+function stanley:block/spawn_boss_window
