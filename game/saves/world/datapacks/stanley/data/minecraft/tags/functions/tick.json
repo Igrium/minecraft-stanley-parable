@@ -1,6 +1,7 @@
 {
     "values": [
         "stanley:events/event_tick",
-        "stanley:inventory/inventory_tick"
+        "stanley:inventory/inventory_tick",
+        "stanley:objects/object_tick"
     ]
 }

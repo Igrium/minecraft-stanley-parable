@@ -1,0 +1,9 @@
+{
+	"parent": "block/cube_all",
+	"display": {
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

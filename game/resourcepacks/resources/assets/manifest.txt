@@ -12,3 +12,4 @@ red glazed terracotta: white bricks & red wool
 brown glazed terracotta: white bricks & dark oak planks
 dead tube coral fan: invisible item
 birch sign: keypad
+iron block: large metal door

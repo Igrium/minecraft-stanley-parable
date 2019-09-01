@@ -1,0 +1,5 @@
+Dimensions: 25.6 x 25.6 x 25.6
+
+Scaling: 1.6
+
+Origin: Top Center
