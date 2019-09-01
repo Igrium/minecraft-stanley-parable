@@ -10,3 +10,5 @@ light blue glazed terracotta: gray bricks & tan wall
 white glazed terracotta: white bricks & tan wall
 red glazed terracotta: white bricks & red wool
 brown glazed terracotta: white bricks & dark oak planks
+dead tube coral fan: invisible item
+birch sign: keypad

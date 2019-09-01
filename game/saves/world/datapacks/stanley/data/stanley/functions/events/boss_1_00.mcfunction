@@ -1,0 +1,1 @@
+playsound minecraft:narrator.boss_1_00 voice @a ~ 200 ~ 100000 1 1

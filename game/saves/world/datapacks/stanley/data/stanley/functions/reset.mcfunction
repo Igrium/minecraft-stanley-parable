@@ -24,6 +24,9 @@ setblock -73 31 4 minecraft:redstone_block
 # Boss lobby door
 setblock -73 37 11 minecraft:redstone_block
 
+# Boss office door
+setblock -69 36 17 minecraft:redstone_block
+
 # Boss office hitbox blockers
 tp @e[type=minecraft:slime] ~ ~-1000 ~
 summon slime -65.512 38.0 16.978 {CustomName:"\"BossHitboxBlocker1\"",NoGravity:1b,Size:3,Invulnerable:1,PersistenceRequired:1,NoAI:1,Silent:1,Team:"noclip",ActiveEffects:[{Id:14,Amplifier:0,Duration:200000,ShowParticles:0b}]}

@@ -1,0 +1,1 @@
+execute if score @p e.boss_finished matches 1 run function stanley:events/boss_success_00

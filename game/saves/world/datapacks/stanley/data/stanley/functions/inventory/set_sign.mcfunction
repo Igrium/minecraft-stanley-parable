@@ -1,0 +1,9 @@
+replaceitem entity @s container.0 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.1 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.2 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.3 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.4 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.5 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.6 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.7 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}
+replaceitem entity @s container.8 birch_sign{"HideFlags":26,"CanPlaceOn":["vine"]}

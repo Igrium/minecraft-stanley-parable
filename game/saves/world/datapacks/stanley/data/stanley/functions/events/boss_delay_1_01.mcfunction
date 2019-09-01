@@ -1,0 +1,1 @@
+playsound minecraft:narrator.boss_delay_1_01 voice @a ~ 200 ~ 100000 1 1
