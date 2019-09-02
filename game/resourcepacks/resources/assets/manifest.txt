@@ -13,3 +13,5 @@ brown glazed terracotta: white bricks & dark oak planks
 dead tube coral fan: invisible item
 birch sign: keypad
 iron block: large metal door
+oak leaves: fireplace left
+birch leaves: fireplace right
