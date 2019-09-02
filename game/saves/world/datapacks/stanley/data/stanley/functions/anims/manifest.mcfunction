@@ -1,0 +1,1 @@
+execute as @e[scores={mcanim.anim=0}] run function stanley:anims/anim0

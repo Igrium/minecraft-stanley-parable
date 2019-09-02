@@ -8,5 +8,6 @@ summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{}, {}, {}, {Count:1,id:iron_blo
 
 # Set ID
 scoreboard players operation @e[tag=spawning] id = @s id
+scoreboard players set @e[tag=spawning] mcanim.frame 0
 
 tag @e[type=minecraft:armor_stand] remove spawning

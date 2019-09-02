@@ -1,0 +1,1 @@
+0: boss_window_close

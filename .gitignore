@@ -10,3 +10,5 @@ game/resourcepacks/*
 !game/resourcepacks/resources
 
 dev_files
+
+*.blend1
