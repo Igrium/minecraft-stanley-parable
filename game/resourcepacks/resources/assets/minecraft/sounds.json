@@ -93,5 +93,10 @@
         "sounds":[
             "narrator/boss_success_00"
         ]
+    },
+	"fx.fireplace_open_01":{
+        "sounds":[
+            "fx/fx_fireplace_open_01"
+        ]
     }
 }

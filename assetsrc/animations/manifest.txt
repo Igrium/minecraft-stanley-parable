@@ -1,1 +1,3 @@
 0: boss_window_close
+1: boss_fireplace_retract (manual)
+2: boss_fireplace_top_retract (manual)

@@ -1,0 +1,6 @@
+{
+    "parent": "block/entity_block",
+    "textures": {
+        "all": "block/red_wool"
+    }
+}
