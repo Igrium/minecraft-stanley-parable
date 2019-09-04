@@ -38,3 +38,6 @@ setblock -53 39 18 minecraft:vine[east=true]
 
 # Boss window
 function stanley:block/spawn_boss_window
+
+# Boss fireplace
+function stanley:block/spawn_fireplace
