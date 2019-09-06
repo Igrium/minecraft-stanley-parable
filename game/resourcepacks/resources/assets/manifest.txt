@@ -15,3 +15,4 @@ birch sign: keypad
 iron block: large metal door
 oak leaves: fireplace left
 birch leaves: fireplace right
+black stained glass: black tint (for distance fade)

@@ -1,7 +1,8 @@
 # Run in the scope of an entity with with the id objective set to what you want for the id
 
 # Spawn entities
-summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{}, {}, {}, {Count:1,id:iron_block}],Invisible:1b,NoGravity:1b,Tags:['BossWindowParent','BossWindow','spawning']}
+summon minecraft:armor_stand ~ ~ ~ {Invisible:1b,NoGravity:1b,Tags:['BossWindowParent','BossWindow','spawning']}
+summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{}, {}, {}, {Count:1,id:iron_block}],Invisible:1b,NoGravity:1b,Tags:['BossWindow0','BossWindow','spawning']}
 summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{}, {}, {}, {Count:1,id:iron_block}],Invisible:1b,NoGravity:1b,Tags:['BossWindow1','BossWindow','spawning']}
 summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{}, {}, {}, {Count:1,id:iron_block}],Invisible:1b,NoGravity:1b,Tags:['BossWindow2','BossWindow','spawning']}
 summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{}, {}, {}, {Count:1,id:iron_block}],Invisible:1b,NoGravity:1b,Tags:['BossWindow3','BossWindow','spawning']}

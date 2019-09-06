@@ -1,1 +1,1 @@
-scoreboard players set @e[tag=BossWindow,scores={id=0}] mcanim.anim 0
+scoreboard players set @e[tag=BossWindowParent,scores={id=0}] mcanim.anim 0

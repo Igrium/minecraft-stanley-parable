@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_unlit",
     "textures": {
-        "all": "util/white"
+        "all": "util/black_tint"
     }
 }
