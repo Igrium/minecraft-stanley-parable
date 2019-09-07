@@ -16,4 +16,4 @@ iron block: large metal door
 oak leaves: fireplace left
 birch leaves: fireplace right
 black stained glass: black tint (for distance fade)
-chiseled red sandstone: industrial elevator
+chiseled red sandstone: cage elevator
