@@ -42,3 +42,6 @@ function stanley:block/spawn_boss_window
 # Boss fireplace
 function stanley:block/spawn_fireplace
 function stanley:block/spawn_fireplace_top
+
+# Secret passage elevator
+function stanley:block/spawn_elevator_0

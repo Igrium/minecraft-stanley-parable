@@ -1,7 +1,7 @@
 
 # Identify entities with matching id
-scoreboard players operation @e[type=minecraft:armor_stand] temp = @s id
-execute as @e[type=minecraft:armor_stand] run execute if score @s temp = @s id run tag @s add teleport
+scoreboard players operation @e[type=minecraft:armor_stand,tag=BossWindow] temp = @s id
+execute as @e[type=minecraft:armor_stand,tag=BossWindow] run execute if score @s temp = @s id run tag @s add teleport
 
 # Teleport child entities
 execute at @s as @e[tag=BossWindow0] run execute as @s[tag=teleport] run teleport @s ~ ~0 ~
